@@ -3,7 +3,7 @@
 
 int main(){
 
- std::count <<"He llo World";
+ std::count <<"Hello World";
 
  return 0;
 
