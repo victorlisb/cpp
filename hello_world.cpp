@@ -1,11 +1,10 @@
 #include<iostream>
 
-
 int main(){
 
- std::count <<"Hello World";
+ std::cout << "Hello World"<<std::endl;
+ std::cout << "Second line of code";
 
+ 
  return 0;
-
-
 }
